@@ -1,0 +1,62 @@
+-> Why We Use Git?
+    - Version Control
+    - Keep Track of Changes
+    - Collaboration
+
+-> Github is like a remote folder which helps to create folder remotely.
+
+-> git config --help:
+    - Shows how many commands are there in git
+    - You have to use 'git' before every command
+-> git config --list
+
+-> git config user.name:
+    - To change user name 
+
+-> git config user.email:
+    - To change user email
+
+-> git init
+    - To convert a folder into git folder
+
+-> git add 'file name' or use '.'
+    - To aswitch the file from working directoy to stagging area
+    - By doing this we can track the changes
+
+-> git status
+    - Use to see what you have changed
+
+-> git restore 'file name' or use '.'
+    - To undo all changes
+
+-> git commit
+    - To switch from stagging area to Local repositories
+
+-> git diff
+    - it will show in which line you have made changes
+
+-> git log or git log --oneline
+    - shows all commit you have done(commit history)
+
+-> git checkout 'commitid'
+    - To switch from one commit to another
+
+-> git remote -v
+    - for getting origin's address
+
+-> git push
+    - To push all the local repositories to remote repositories
+
+-> mark down
+    - Use # for heading
+    - Use ** in both side of the text to make bold text
+    - Use _ in both side of the text to make italic text
+    - Use ``` in both side of the text to make it like code
+    - Use - in fornt of the text to make it unordered list
+    - Use number in fornt of the text to make it ordered list
+    - Use ![alternative name](image url) to add images in mark down
+    - Just copy and paste the emoji to use emoji in mark down
+    - Table: |     |     |
+             |-----|-----|
+             |     |     |
+    
