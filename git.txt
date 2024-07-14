@@ -59,4 +59,23 @@
     - Table: |     |     |
              |-----|-----|
              |     |     |
-    
+
+-> git pull
+    - To get all the chnages in local repositories that we have changed in remote repositories.
+
+-> issues
+
+-> git branch 'name'
+    - To create a branch similar to main.
+    - To go from a main to a branch use "git checkout 'branch-name' "
+
+-> git merge
+    - Use to merge the branch with main.
+    - To that use "git merge 'branch-name' "
+
+-> use 'git school website' for branching practice.
+-> branch and merge:
+    1. fast-forward merge
+    2. three-way merge
+
+-> git checkout -b 'branch-name': git branch 'branch-name'+ git checkout 'branch-name'
