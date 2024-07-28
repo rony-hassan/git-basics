@@ -79,3 +79,9 @@
     2. three-way merge
 
 -> git checkout -b 'branch-name': git branch 'branch-name'+ git checkout 'branch-name'
+-> git checkout -- . (undo from unstaging)
+-> git reset HEAD . (undo from staging)
+-> git reset -hard HEAD (undo from staging & unstaging)
+-> git commmit --amend (correcting the commit message & add new files)
+-> git revert HEAD (undo a latest commit)
+-> git revert <commitId> + git push (reverting a pushed commit)
